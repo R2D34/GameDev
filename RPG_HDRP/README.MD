@@ -1,1 +1,1 @@
-Trial of importing rpg made before ot High Definition pipeline
+Trial of importing rpg made before to High Definition pipeline
