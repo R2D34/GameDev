@@ -1,5 +1,3 @@
-# "More complex" games
-
 ![Games screens collage](https://github.com/Tsubanee/GameDev/blob/master/White%20Simple%20Camera%20Photo%20Collage.png)
 
 The games in these repos were created with the help of online tutorials (like majority of the bases for my further projects... Afterall it's faster to learn from the work well done by others).
