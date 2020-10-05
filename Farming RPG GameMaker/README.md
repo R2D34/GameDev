@@ -1,6 +1,7 @@
+## Tile based farming rpg prototype made in gamemaker
+
 ![Farming Rpg screen](https://github.com/Tsubanee/GameDev/blob/master/Farming%20RPG%20GameMaker/Farming-screen2.png)
 
-##Tile based farming rpg prototype made in gamemaker
 
 Some more "unique" feautures implemented in this project
 
