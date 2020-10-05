@@ -1,0 +1,1 @@
+text = "Please don't murder anyone here\n -The Dark Ranger";

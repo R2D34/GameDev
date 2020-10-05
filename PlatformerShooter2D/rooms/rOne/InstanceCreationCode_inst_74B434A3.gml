@@ -1,0 +1,1 @@
+text = "Bum Chika Bomba \n - Light Ranger";
