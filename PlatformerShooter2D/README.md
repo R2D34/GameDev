@@ -1,6 +1,6 @@
 ## Platformer shooter created in GameMaker2
 
-![Screen from the game]()
+![Screen from the game](https://github.com/Tsubanee/GameDev/blob/master/PlatformerShooter2D/GameScreen.png)
 
 
 Unique feautures implemented in the game:
